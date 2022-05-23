@@ -1,5 +1,4 @@
-# uni_projects
-Egyetemi projektjeim 2019 - 2022
+# Egyetemi projektjeim 2019 - 2022
 - 1.félév:
   - Programozás 1 - C nyelven
 - 2.félév:
