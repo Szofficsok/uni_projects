@@ -5,7 +5,7 @@
   - Programozás 2 - C++ nyelven
 - 3.félév:
   - Programozás 3 - Java nyelven
-  - Szoftvertechnológia - WhiteStarUML program
+  - Szoftvertechnológia - WhiteStarUML
 - 4.félév:
   - Grafika - WebGL
   - Szoftverprojektlaboratórium - csapatmunka
