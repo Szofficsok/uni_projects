@@ -1,0 +1,17 @@
+﻿  framework.cpp
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\framework.h(167,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Skeleton.cpp
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\framework.h(167,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(276,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(276,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(308,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(315,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(323,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(323,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\Skeleton\Skeleton.cpp(323,81): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  0 of 231 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> C:\Users\nomiz\Desktop\BME VIK\BME_20_21\2. félév\Grafika\2.hf\Grafika_2\Grafika_2 _HF\Programs\Skeleton\bin\Skeleton.exe

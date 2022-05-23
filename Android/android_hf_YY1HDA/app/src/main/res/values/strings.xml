@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kedves Napló</string>
+    <string name="bejegyz_sek">Bejegyzések</string>
+    <string name="k_pek">Képek</string>
+    <string name="c_lok">Célok</string>
+    <string name="new_cel_item">Új cél</string>
+    <string name="new_bejegyzes_item">Új bejegyzés</string>
+    <string name="new_kep_item">Új kép</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Bezárás</string>
+    <string name="c_m">Cím</string>
+    <string name="le_r_s">Leírás</string>
+    <string name="n_v">Név</string>
+    <string name="teljes_tett">Teljesített</string>
+    <string name="fogy_s">Fogyás</string>
+    <string name="k_p">Kép</string>
+    <string name="k_p_le_r_sa">Kép leírása</string>
+    <string name="d_tum">Dátum</string>
+    <string-array name="kep_items">
+        <item>Étel</item>
+        <item>Sport</item>
+        <item>Zene</item>
+        <item>Film</item>
+        <item>Állatkák</item>
+        <item>Barátok</item>
+        <item>Tanulás</item>
+        <item>Család</item>
+    </string-array>
+</resources>
