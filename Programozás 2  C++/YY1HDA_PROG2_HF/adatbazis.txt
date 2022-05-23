@@ -1,0 +1,179 @@
+15
+1	Ferencvarosi TC	Szerhij Rebrov	11	Alberto Bosch
+Botka Endre	21	0
+Michal Skvarka	92	0
+Szantho Rego	69	0
+Szecsi Gergo	1	0
+Vecsei Balint	19	0
+Abraham Frimpong	5	1
+Marcel Heister	26	1
+Siger David	18	4
+Mikalaj Szihnevics	20	5
+Leandro de Almeida	16	8
+Varga Roland	97	47
+1	Puskas Akademia FC	Hornyak Zsolt	11	Horvath Peter
+Jakub Plsek	15	0
+Kamen Hadzsiev	26	0
+Sos Bence	9	0
+Spandler Csaba	23	0
+Thomas Meissner	5	0
+Varga Jozsef	33	0
+Yoell van Nieff	6	0
+Hegedus Lajos	19	1
+Luciano Slagveer	11	1
+Hegedus Janos	68	4
+Gyurcso Adam	77	7
+1	Ujpest FC	Nebojsa Vignjevic	11	Nebojsa Jandric
+Bacsa Patrik	9	0
+Jakub Sedlacek	22	0
+Jonathan Heris	28	0
+Kire Risztevszki	4	0
+Szakaly Peter	17	0
+Andreias Calcan	20	1
+Banai David	23	1
+Simon Krisztian	7	2
+Balazs Benjamin	21	3
+Branko Pauljevic	49	4
+Zsoter Donat	10	8
+1	MOL Fehervar FC	Joan Carrillo	11	Alberto Rodriguez
+Fiola Attila	5	0
+Hangya Szilveszter	65	0
+Kovacsik Adam	74	0
+Nikolics Nemanja	71	2
+Georgi Milanov	77	4
+Ivan Jevhenovics Petrjak	7	6
+Futacs Marko	18	9
+Paulo Vinicius	3	10
+Patkai Mate	17	15
+Juhasz Roland	23	21
+Kovacs Istvan	10	21
+1	Vasas FC	ifj. Bene Ferenc	11	Toth Andras
+Hajdu Adam	18	0
+Ivan Rados	22	0
+Kleisz Mark	20	0
+Vernes Richard	77	0
+Toth Bence	5	1
+Murka Benedek	27	2
+Szivacski Donat	2	2
+Torghelle Sandor	28	2
+Feczesin Robert	9	6
+Szatmari Lorand	10	8
+Balajti Adam	33	43
+2	Atomeromu SE	Branislav Dzunic	6	10
+Kovacs Akos	6	2
+Kalmar Viktor	13	3
+Horvath Kristof Istvan	11	4
+Justin Jackson	5	8
+Eilingsfeld Janos	7	13
+Lorant Peter	4	21
+2	Kaposvari KK	Fekete Adam	7	14
+Jure Lalic	7	2
+Rastko Dramicanin	14	2
+Bogdan Benedek	9	8
+Horváth Hunor Adorján	1	9
+Hock Gergo	6	15
+Hendlein Roland	11	16
+Julian Norfleet	2	27
+2	Szolnoki Olajbanyasz KK	Gasper Potocnik	10	22
+Rudner Gabor	7	0
+Toth Norbert	13	3
+Kovacs Peter	10	4
+Dakarai Tucker	5	7
+Darwin Jr. Davis	11	9
+Marjan Cakarun	4	10
+Samuel Taiwo	6	18
+Pallai Tamas	3	21
+Juhos Levente	8	30
+Frank Aron	2	34
+2	Egis Kormend	Matthias Zollner	7	15
+Kiss Benedek	8	0
+Kiss Matyas	9	2
+Kozma Gergo	10	4
+Durazi Krisztofer	7	6
+Jordon Varnado	1	11
+Travis Taylor	4	26
+Takacs Kristof	2	35
+2	PVSK-Panthers	Dragan Aleksic	8	18
+Biro Levente	11	0
+Simon Kristof	3	0
+Antoni Csanad	10	4
+Ryan Wright	4	7
+Kameron Taylor	7	16
+Andrija Ciric	13	17
+Demeter Attila	9	23
+Veljko Budimir	6	41
+3	Siofok KC Tatabanya KC	Tor Odvar Moen	14	4000000
+Andela Janjusevic	88	0
+Camille Aoustin	13	0
+Lapos Laura	44	0
+Szikora Melinda	7	0
+Tomori Zsuzsanna	33	2
+Poczik Kata	66	12
+Wald Kira	55	23
+Simone Bohme	8	32
+Such Nelli	23	47
+Katarina Jezic	17	119
+Gnonsiane Niombla	29	227
+Nemeth-Mazak Csilla	21	243
+Nerea Pena	25	434
+Andrea Kobetic	32	629
+3	Veszprem KSE	David Davis	14	8000000
+Jahja Omar	5	0
+Rasmus Lauge Schmidt	25	0
+Sterbik Arpad	1	0
+Vuko Borozan	87	31
+Pawel Paczkowski	33	76
+Dejan Manaszkov	2	117
+Petar Nenadic	34	167
+Kent Robin Tonnesen	15	177
+Kentin Mahe	35	189
+Andreas Nilsson	18	199
+Borut Mackovsek	51	217
+Lekai Mate	66	277
+Mirsad Terzic	30	469
+Gasper Marguc	24	900
+3	Alba Fehervar KC	Deli Rita	14	1500000
+Armelle Attingre	1	0
+Olga Gorsenyina	9	0
+Utasi Linda	14	0
+Piller Karmen	73	1
+Jana Zsilinszkajtye	4	3
+Walfisch Mercédesz	66	6
+Gerhart Kincso	22	9
+Boldizsar Bianka	23	10
+Zazai Sabrina	31	14
+Sztankovics Reka	44	17
+Temes Bernadett	85	19
+Szarka Adrienn	91	25
+Besszer Borbala	24	26
+Claudine Mendy	8	33
+3	Gyori Audi ETO KC	Danyi Gabor	14	9000000
+Silje Solberg	12	1
+Amandine Leynaud	12	2
+Puhalak Szidonia	57	4
+Beatrice Edwige	2	39
+Kari Brattset	7	40
+Fodor Csenge	23	41
+Faluvegi Dorottya	48	45
+Amanda Kurtovic	24	52
+Estelle Nze Minko	27	128
+Anne Mette Hansen	8	249
+Veronica Kristiansen	21	323
+Stine Bredal Oftedal	15	324
+Eduarda Amorim	18	549
+Gorbicz Anita	13	1838
+3	Vasas SC	Varga Marta	14	8500000
+Fekete Bozsana	19	0
+Hansaghy Beatrix	11	0
+Kodmon Krisztina	20	0
+Tzintzis Alexandra	1	0
+Cornelia Lyngby	11	11
+Kuczora Csenge	56	14
+Vanessa Agovic	14	37
+Mester Nora	44	45
+Becseri Kitti	15	56
+Pados Monika	28	94
+Kocsis Agnes	8	164
+Herr Anita	25	178
+Hanusz Boglarka	2	302
+Nemeth Nedda	22	315

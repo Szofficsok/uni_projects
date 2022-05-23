@@ -1,0 +1,83 @@
+5
+1
+5
+2
+5
+3
+1
+1
+Arsenal FC
+Mikel Arteta
+11
+Juan Carlos Carcedo
+1
+Mesut Ozil
+10
+37
+1
+Lucas Torreira
+11
+3
+2
+1
+2
+Alba Fehervar
+Arie Shivek
+2
+18
+1
+Balsay Adam
+3
+10
+1
+Molnar Marton
+6
+31
+1
+3
+Alba Fehervar
+Grundfos Tatabanya KC
+Vladan Matic
+14
+30000
+1
+Szekely Marton
+12
+1
+2
+1
+1
+Biatorbagy FC
+Szabo Akos
+0
+Pal Erik
+3
+Balsay Adam
+3
+Ilyen nevu nincs
+4
+2
+Ilyen nevu nincs
+2
+Biatorbagy FC
+menu
+6
+11111111111111111111
+1
+2
+Kosar
+Edzo
+-12
+12
+-20
+20
+2
+1
+3
+Kezi
+Edzo
+14
+-1000
+1000
+2
+6

@@ -1,0 +1,37 @@
+Legyen Ön Is Milliomos
+
+A program a Legyen Ön Is Milliomos játék replikája.
+A program futtatásához nincs szükség a szabványos C könyvtáron kívül semmire.
+A zipbe csomagolt fájlok egy mappába kell hogy kerüljenek, hogy a program megfelelõen mûködjön.
+A program futtatásához az NHF_YY1HDA.cbp fájlt kell megnyitni.
+A program elindításakor meghívódik a kezdolap() függvény, ami két választási lehetõséget ad.
+Az egyik a játék elindítása, ami elmenti a játékos nevét és ezzel hívja meg a jatek() függvényt.
+Továbbá elmenti a játék elõtti és utáni idõt, hogy majd a játék idõtartamát is tudja mérni.
+A játék kezdetekor a jatek.c modulba lépünk be, ahol a játékra kerül sor.
+Itt beolvassa a paraméter nélküli beolvas() függvény a kérdéseket és a hozzá tartozó adatokat a loim szöveges fájlból (Kerdesek típusú láncolt listába).
+A Kerdesek struktúra egy láncolt lista építéséhez alkalmas típus, ami azért megfelelõ, mert tetszõlegesen hosszú bemeneteket el tud menteni és gyorsan végig tud rajta futni.
+Ez a struktúra tartalmaz egy nehézségi szintet(integer), egy kérdést(max 200 hosszúságú karaktertömb),
+egy a-t, b-t ,c-t és d-t (a válaszokat tartalmazzák amik max 50 hosszúságú karaktertömbök), a témát(max 20 karakteres sztring), a jóválaszt(char) és a lista következõ elemére mutató pointert.
+A beolvas() a beszur_hatulra() segítségével (ami megkapja a lista elsõ elemére mutató pointert és a beszúrandó Kerdesek típusú struktúraelemet és azt a lista végére szúrja) láncolt listát hoz létre amivel vissza is tér.
+Ezután ugyanezzel a listával meghívjuk a sorrend() függvényt, ami még egy integer tömböt is kap paraméterül, amiben megszámolja a kérdéseket nehezségekre csoportosítva.
+Ezen kívül sorrendbe állítja a listát nehézségi szint szerint és a sorrendbe állított új lista elejére mutató pointerrel tér vissza.
+Ezután kiír egy random kérdést a kérdés számával egyezõ nehézségi szintben. Ezután egy újabb választási lehetõséget ad, ahol segítséget tud kérni a játékos, ha még rendelkezik velük/e.
+Ha a K/k-t (toupper() függvény nagybetûsíti, ha kisbetût ír bele a játékos) írja akkor a kozonsegsegit() függvény segítségével, ami a segito_szinesito.c modulban van, egy irányított szavazó gépet ír ki a játékos elé. Ez a függvény a jelenlegi kérdésre mutató pointert kéri be és annak segítségével, a jó válaszra több szavazatot számol. Ha a F/f-et üti akkor a felezessegit() függvény segítségével, ami a segito_szinesito.c modulban található, a bekért jelenlegi kérdésre mutató pointer segítségével kivesz 2 rossz választ és kiírja a képernyõre a jót és az egyik rossz választ véletlenszerû sorrendben. Ha N-et nyom a játékos, akkor nem kér segítséget. Miután a kérdést megválaszolja, az elbizonytalanito() függvény hívódik meg a segito_szinesito.c modulból, amely egy sztringet ad vissza és kiírja a képernyõre. A végleges válasz után, ha helytelenül válaszol a játékos, akkor a kiesopenz() függvény (amely megkapja hanyadik kérdésnél jár a játékos és azt felhasználva adja vissza az összeget) visszaaadja a nyert összeget és ha az nem nulla, akkor kiírja, hogy mennyi pénzzel tér haza a játékos. Nulla esetén egy sajnálkozó szöveget ír ki.
+Helyes válasz esetén a segito_szinesito.c modul dicsero() függvény hívódik meg, amely egy bátorító sztringet ad vissza és azt kiírja a képernyõre.
+Ezután megkérdezi a játékostól, hogy folytatni szeretné- e vagy sem a kilepopenz() függvény által meghatározott összeg tudatában,
+ami a kérdés sorszámát kapja paraméterül és az alapján kiszámolja, hogy mennyi pénze van a játékosnak épp, majd a kiszámolt összeggel tér vissza.
+Ha nem folytatja, akkor a játék elköszön és kiírja az összeget amit nyert. Ha tovább megy, akkor pedig kiírja következõ kérdést.
+Az utolsó eset, amikor véget érhet a játék, hogy a 15-ik kérdést is helyesen válaszolja meg a játékos. Ekkor kiírja, hogy milliomos, és hogy mennyi a fõnyeremény, amit nyert.
+Mindegyik eset után felszabadítja a program a listát a felszabadit_listat() függvénnyel,
+amely a bekért lista elejére mutató pointer segítségével felszabadítja a láncolt listát és nem tér vissza semmivel. A játék függvény a  nyert pénz összeggel, vagy 0-val tér vissza.
+A játék lefutása után elmenti a játékost a pénzével és idejével a dicsoseglista.txt-be a dicsoseglista_keszit() függvénnyel,
+amely a bekért 3 adatot a fájl végéhez fûzi a megfelelõ módon és nem tér vissza semmivel.
+A másik a dicsõséglista kiiratása, amit a paraméter nélküli dicsoseglista_kiir() függvény valósít meg.
+Ez a függvény a dicsoseglista.c modulban van.
+Elõször beolvassa a dicsoseglista.txt-bõl a beszur_hatulra_dicsoseglista() (ugyanúgy mûködik mint a beszur_hatulra csak Kerdesek típus helyett Dicsoseglista típus) segítségével,
+ami láncolt Dicsoseglista típusú listába olvassa be.
+A Dicsoseglista egy láncolt lista építõeleme, ami azért megfelelõ, mert tetszõlegesen sok eredményt el tud menteni és gyorsan végig tud rajtuk futni a rendezéshez és kiiratáshoz.
+Ez a struktúra tartalmaz egy nevet(max 30 karakteres sztring), a nyert pénz összegét(integer), a játék idõtartamát percben(double) és a lista következõ elemére mutató pointert.
+Ezután paraméterként átadja a dicsoseglista_sorrendbe() függvénynek ami a beszur_dicsoseglista(), beszur_hatulra_dicsoseglista(),
+beszur_elore_dicsoseglista() segítségével átmásolja egy új listába rendezetten, és a régi listát felszabadítja a felszabadit_dicsoseglistat()-al.
+Ezt a listát aztán kiírja a kimenetre és felszabadítja a felszabadit_dicsoseglistat()-al. 

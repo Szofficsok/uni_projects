@@ -1,0 +1,24 @@
+Anya	0 Ft	0.1 P
+Viktor	5000000 Ft	9.3 P
+Balint	10000 Ft	0.1 P
+Anna	250000 Ft	6.0 P
+Nomi	10000000 Ft	10.4 P
+Noemi	0 Ft	0.4 P
+Borso	10000 Ft	1.1 P
+Nolycsi	250000 Ft	2.3 P
+Panni	250000 Ft	3.2 P
+
+enyemapenz	100000 Ft	2.3 P
+jeah	0 Ft	0.7 P
+jajdejo	0 Ft	0.6 P
+anya12	20000 Ft	0.8 P
+jeaj	250000 Ft	1.2 P
+as	10000 Ft	0.1 P
+A	0 Ft	0.1 P
+anyu	250000 Ft	3.4 P
+a	0 Ft	0.4 P
+anyu	0 Ft	1.4 P
+anyaa	2000000 Ft	18.2 P
+aa	0 Ft	0.1 P
+a	0 Ft	3 Mp
+a	0 Ft	7 Mp

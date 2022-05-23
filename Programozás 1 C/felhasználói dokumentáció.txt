@@ -1,0 +1,15 @@
+Legyen Ön Is Milliomos
+
+A program a Legyen Ön Is Milliomos játék replikája.
+Amikor elindítjuk, egybõl 2 lehetõséget kapunk, az egyik a dicsõséglista kiiratása a „dicsoseglista” szóval,
+a másik pedig magának a játéknak az indítása a nevünk beírásával, ékezetmentesen.
+Ha a játék elindítása mellett döntünk, akkor elkezdi a kérdéseket feltenni.
+Minden kérdésnél, amíg lehetõség van segítség felhasználására, felajánlja a közönség (K) és a felezés (F) segítségét.
+Mindegyiket egyszer lehet felhasználni. A választ elfogadja kis- és nagybetûvel egyaránt.
+Miután megválaszolta, elbizonytalanításképpen, újra rákérdez, hogy mi a választott megoldás betûjele. Ide be kell írni a végleges választ.
+Ha a válasz helytelen, akkor kiírja a helyes választ és hogy mennyi pénzt nyert, kivéve ha az nulla, akkor csak közli, hogy a játékos üres kézzel távozik.
+Ha helyes, akkor megkérdezi, hogy folytatni szeretné-e a játékot vagy kiszállni és hazavinni a jelenlegi összeget.
+Ha a versenyzõ kilép, kiírja hogy mennyi a nyeremény és bíztatja, hogy jöjjön máskor is.
+Ha folytatja, akkor újra feltesz egy kérdést, azonban az már egyel magasabb nehézségû.
+A 15-ik kérdés helyes megválaszolása esetén a versenyzõ megnyeri a fõdíjat, ezért a játék kiírja hogy milliomos és a fõnyeremény értékét ami 50000000 Ft.
+Ha a dicsõséglistát választja, akkor megjeleníti az eddig elért eredményeket pénz alapján csökkenõ sorrendben.

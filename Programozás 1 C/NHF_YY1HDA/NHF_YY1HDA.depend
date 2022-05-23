@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1575804441 source:c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\dicsoseglista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"dicsoseglista.h"
+	"debugmalloc.h"
+
+1576099680 c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\dicsoseglista.h
+
+1575126652 c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575126651 c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1576099863 source:c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\jatek.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"jatek.h"
+	"segito_szinesito.h"
+	"debugmalloc.h"
+
+1576099726 c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\jatek.h
+
+1575210099 c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\segito_szinesito.h
+	"jatek.h"
+
+1575223957 source:c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"debugmalloc.h"
+	"jatek.h"
+	"dicsoseglista.h"
+	"segito_szinesito.h"
+	<windows.h>
+
+1576009661 source:c:\users\win8.1\desktop\progik\the hf2\nhf_yy1hda\nhf_yy1hda\segito_szinesito.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"segito_szinesito.h"
+	"debugmalloc.h"
+

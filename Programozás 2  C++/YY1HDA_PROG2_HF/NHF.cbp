@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NHF" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NHF" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-DMEMTRACE" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NHF" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="csapat.cpp" />
+		<Unit filename="csapat.h" />
+		<Unit filename="csapattipusok.cpp" />
+		<Unit filename="csapattipusok.h" />
+		<Unit filename="gtest_lite.h" />
+		<Unit filename="gui.cpp" />
+		<Unit filename="gui.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="memtrace.cpp" />
+		<Unit filename="memtrace.h" />
+		<Unit filename="nagyhf_tesztek.hpp" />
+		<Unit filename="sportegyesulet.cpp" />
+		<Unit filename="sportegyesulet.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

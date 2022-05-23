@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1590064537 source:c:\users\nomiz\desktop\hazi\csapat.cpp
+	"csapat.h"
+	"memtrace.h"
+
+1590064537 c:\users\nomiz\desktop\hazi\csapat.h
+	<string>
+	"memtrace.h"
+
+1590005629 source:c:\users\nomiz\desktop\hazi\csapattipusok.cpp
+	"sportegyesulet.h"
+	"csapattipusok.h"
+	"memtrace.h"
+
+1590004448 c:\users\nomiz\desktop\hazi\sportegyesulet.h
+	<fstream>
+	<iostream>
+	<string>
+	"csapat.h"
+	"memtrace.h"
+
+1589540012 c:\users\nomiz\desktop\hazi\csapattipusok.h
+	"csapat.h"
+	"memtrace.h"
+
+1590006219 source:c:\users\nomiz\desktop\hazi\main.cpp
+	<iostream>
+	"sportegyesulet.h"
+	"csapattipusok.h"
+	"csapat.h"
+	"nagyhf_tesztek.hpp"
+	"gui.h"
+	"memtrace.h"
+
+1590138799 source:c:\users\nomiz\desktop\hazi\sportegyesulet.cpp
+	"sportegyesulet.h"
+	"csapat.h"
+	"csapattipusok.h"
+	"memtrace.h"
+
+1586118084 c:\users\nomiz\desktop\hazi\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1589138385 source:c:\users\nomiz\desktop\hazi\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1590002204 c:\users\nomiz\desktop\hazi\nagyhf_tesztek.hpp
+	<iostream>
+	<string>
+	"sportegyesulet.h"
+	"csapat.h"
+	"gtest_lite.h"
+	"memtrace.h"
+
+1584384760 c:\users\nomiz\desktop\hazi\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<string>
+	<fstream>
+	"memtrace.h"
+
+1590078644 c:\users\nomiz\desktop\hazi\gui.h
+	"csapat.h"
+	"sportegyesulet.h"
+	"csapattipusok.h"
+	"memtrace.h"
+
+1590136072 source:c:\users\nomiz\desktop\hazi\gui.cpp
+	"gui.h"
+	"memtrace.h"
+
